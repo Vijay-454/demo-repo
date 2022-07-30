@@ -1,1 +1,2 @@
-i am practising git
+	my self vijay
+	i am practising git
